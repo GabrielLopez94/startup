@@ -10,11 +10,15 @@ html *{
 .header{
        font-size:46px;
        background-color:magenta;
+       margin: 12px 12px 12px 12px;
+       padding: 3px 3px 3px 3px;
 }
 
 .footer{
        font-size:10px;
        background-color:magenta;
+       margin: 12px 12px 12px 12px;
+       padding: 3px 3px 3px 3px;
 }
 
 .content{
@@ -24,11 +28,15 @@ html *{
 .navigation{
            font-size:12;
            background-color:blue;
+           margin: 12px 12px 12px 12px;
+           padding: 3px 3px 3px 3px; 
 }
 
 .sidebar{
         font-size:10px;
         background-color:blue;
+        margin: 12px 12px 12px 12px;
+        padding: 3px 3px 3px 3px;
 }
 
 header{
@@ -55,15 +63,17 @@ nav ul{
 article{
        float: left;
        padding: 20px;
-       width: 60%;
+       width: 74.3%;
        background-color: DimGray;
        height: 300px;
+       margin: 12px 12px 12px 12px;
+       padding: 3px 3px 3px 3px;
 } 
 
 aside{
      float: left;
      padding: 20px;
-     width: 30%;
+     width: 10%;
      background-color: LightSlateGray;
      height: 300px;
 }
